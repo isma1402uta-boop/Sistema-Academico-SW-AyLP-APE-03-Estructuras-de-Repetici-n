@@ -26,3 +26,4 @@ El sistema genera un resumen estadístico automático que incluye:
 ---
 ### 👨‍💻 Desarrollado por:
 **Isaac Adrian Sanchez** *Estudiante de Software - UTA*
+**Samuel Jordan Bravo** *Estudiante de Software - UTA*
